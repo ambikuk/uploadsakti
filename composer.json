@@ -1,0 +1,22 @@
+{
+    "name": "ambikuk/uploadsakti",
+    "description": "Upload Image widget for Yii2.",
+    "keywords": ["yii", "extension", "widget", "image"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Buhori Dermawan",
+            "email": "ambikuk@gmail.com",
+            "homepage": "http://ambikuk.com"
+        }
+    ],
+    "require" : {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ambikuk\\uploadsakti\\": ""
+        }
+    }
+}
